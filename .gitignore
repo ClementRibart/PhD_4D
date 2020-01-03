@@ -1,1 +1,4 @@
 #Files to ignore as part of tracking
+
+# Jupyter
+*/exercice-checkpoint.ipynb
